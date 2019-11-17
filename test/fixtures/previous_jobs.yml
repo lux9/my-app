@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee: one
+  reference_phone: 1
+  company: MyString
+  role: MyString
+  reference_contact: MyString
+  start_date: 2019-11-17
+  end_date: 2019-11-17
+  reason: MyString
+
+two:
+  employee: two
+  reference_phone: 1
+  company: MyString
+  role: MyString
+  reference_contact: MyString
+  start_date: 2019-11-17
+  end_date: 2019-11-17
+  reason: MyString
